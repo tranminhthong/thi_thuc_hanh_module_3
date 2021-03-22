@@ -1,0 +1,10 @@
+Model/Entities/Category.java
+ Model.Entities.Category
+Model/Entities/Product.java
+ Model.Entities.Product
+Model/Service/ProductService.java
+ Model.Service.ProductService
+Model/Service/ProductServiceImpl.java
+ Model.Service.ProductServiceImpl
+Controller/ProductManagementServlet.java
+ Controller.ProductManagementServlet
